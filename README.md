@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hrishabh Kureel </h1>
+<h1 align="center">Hi 👋, I'm Om Ji Dubey</h1>
 <h3 align="center">Full Stack Developer | Cybersecurity Enthusiast | Tech Explorer</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ## 💫 About Me:
 
-🎓 I'm **Hrishabh Kureel**, a passionate Computer Science Engineering student at **Galgotias University**, driven by curiosity and a deep interest in **Cybersecurity**, **Full Stack Web Development**, and **Emerging Technologies**.
+🎓 I'm **Om Ji Dubey**, a passionate Computer Science Engineering student at **Galgotias University**, driven by curiosity and a deep interest in **Cybersecurity**, **Full Stack Web Development**, and **Emerging Technologies**.
 
 💡 I thrive on building robust, scalable web applications using **Java**, **React**, and **Node.js**, while also diving deep into **network security**, **ethical hacking**, and **secure coding practices**. With a strong foundation in **Data Structures and Algorithms**, I love solving real-world problems and optimizing systems for performance and security.
 
